@@ -1,4 +1,4 @@
-# Portfolio# **Welcome to my profile !**  
+# **Welcome to my profile !**  
   <!-- <img src="./images/myimg.jpg" alt="ME"> -->
 
 
